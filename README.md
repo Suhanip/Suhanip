@@ -8,6 +8,8 @@
 &nbsp;<a href="https://www.linkedin.com/in/suhani-prajapati-248122174/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="suhani prajapati" height="30" width="30" /></a>
 &nbsp;<a href="https://instagram.com/suhani0342" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="suhani0342" height="30" width="30" /></a>
 &nbsp;<a href="https://medium.com/@kushan0342" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="kushan0342" height="30" width="30" /></a>
+&nbsp;<a href="https://www.kaggle.com/suhani0342" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="suhani0342" height="30" width="30" /></a>
+&nbsp;<a href="https://leetcode.com/suhanip/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="suhanip" height="30" width="30" /></a>
 </p>
 
 I am final year CSE student @ **IIIT,Dharwad**, looking for opportunities related to Data Science and Deep Learning.
